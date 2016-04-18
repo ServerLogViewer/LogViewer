@@ -6,7 +6,7 @@
 
 > [Report Issue](https://github.com/CoolV1994/LogViewer/issues)
 
-> [License](https://github.com/CoolV1994/LogViewer/blob/master/LICENSE.md)
+> [License](https://github.com/CoolV1994/LogViewer/blob/gh-pages/LICENSE.md)
 
 > [Download Center](https://projects.coolv1994.com/LogViewer/)
 
