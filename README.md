@@ -1,14 +1,14 @@
 # Server Log Viewer
 
-> [About Log Viewer](https://www.coolv1994.com/projects/logviewer.html)
+> [Home Page](https://logviewer.coolv1994.com/)
 
-> [Help Wiki](https://github.com/CoolV1994/LogViewer/wiki)
+> [Help Wiki](https://github.com/ServerLogViewer/LogViewer/wiki)
 
-> [Report Issue](https://github.com/CoolV1994/LogViewer/issues)
+> [Report Issue](https://github.com/ServerLogViewer/LogViewer/issues)
 
-> [License](https://github.com/CoolV1994/LogViewer/blob/gh-pages/LICENSE.md)
+> [License](https://github.com/ServerLogViewer/LogViewer/blob/master/LICENSE.md)
 
-> [Download Center](https://projects.coolv1994.com/LogViewer/)
+> [Download Center](https://dl.logviewer.coolv1994.com/)
 
 > [Spigot Resource](https://www.spigotmc.org/resources/server-log-viewer.5243/)
 
