@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>JSONAPI websocket test</title>
-		<script type="text/javascript" src="../jsonapi-v2.js"></script>
+		<script type="text/javascript" src="jsonapi-v3.js"></script>
 		<style>
 			body {
 				background:black;
@@ -51,9 +51,9 @@
 			var j = new JSONAPI({
 				hostname: "localhost",
 				port: 20059,
-				username: "usernameGoesHere",
-				password: "passwordGoesHere",
-				salt: "salt goes here"
+				username: "admin",
+				password: "test",
+				salt: "salt"
 			})
 			,	$ = function(x) { return document.getElementById(x); }
 			,	c = $('console')
